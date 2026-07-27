@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hanadmahdi66-dotcom.github.io/hanSecurity/sitemap.xml
