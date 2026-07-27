@@ -1,7 +1,8 @@
 {
   "name": "hanOS",
   "model": "hanCloud",
-  "version": "v1.1.0",
-  "descrbtion": "hanOS the company tech Cloud and Software",
-  "country": "somaliland"
+  "version": "1.1.0",
+  "description": "hanOS is a cloud and software platform developed by Han Company.",
+  "company": "Han Company",
+  "country": "Somaliland"
 }
