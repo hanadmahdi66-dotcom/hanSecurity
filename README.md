@@ -166,7 +166,7 @@ Useful for defensive network visibility.
 Clone repository:
 
 ```bash
-git clone https://github.com/hanadmahdi66-dotcom/han-security-tool.git
+https://github.com/hanadmahdi66-dotcom/hanSecurity.git
 ```
 
 Enter folder:
